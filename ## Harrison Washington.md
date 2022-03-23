@@ -1,9 +1,13 @@
 ## Harrison Washington
 
 **Sacramento, CA**
+
 **Phone**: 916.292.8971
+
 **LinkedIn**: [harrison-washington](https://www.linkedin.com/in/harrison-washington/)
+
 **Website**: [harrisonwashington](https://www.harrisonwashington.com/)
+
 **GitHub**: [harrisonwashington](https://github.com/harrisonwashington)
 
 

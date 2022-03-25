@@ -35,7 +35,7 @@ August 2021 to Present
 **Customer Service**
 - Remote/on Perm Trouble-shooting on computer hardware, Windows operating system, MacOS operating system, network connections, etc. 
 - Application training, documentation, and overviews 
-- New Employee Onboarding
+- New Employee Onboarding/Offboarding
 - Reply in a timely manner to open support ticks 
 
 **Network Management**

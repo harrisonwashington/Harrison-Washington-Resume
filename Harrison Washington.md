@@ -99,7 +99,7 @@ August 2020 to August 2021
 
 ## Skills
 -   Virtualization
-    -   VMWare
+    - VMWare
 -   System Administration  
 -   Windows Administration
     - Active Directory

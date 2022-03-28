@@ -102,11 +102,11 @@ August 2020 to August 2021
     -   VMWare
 -   System Administration  
 -   Windows Administration
-	- Active Directory
-	- DNS Server
-	- File Server
-	- Domain Controller
-        - User Management    
+    - Active Directory
+    - DNS Server
+    - File Server
+    - Domain Controller
+    - User Management    
 -   Linux System Administration
         - User Management          
         - Network Support    

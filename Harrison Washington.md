@@ -106,14 +106,14 @@ August 2020 to August 2021
 	- DNS Server
 	- File Server
 	- Domain Controller
--   User Management    
+        - User Management    
 -   Linux System Administration
--   User Management          
--   Network Support    
--   Network Security    
--   Network Firewalls
--   Computer Hardware Troubleshooting    
--   Technical Support
+        -   User Management          
+        -   Network Support    
+        -   Network Security    
+        -   Network Firewalls
+        -   Computer Hardware Troubleshooting    
+        -   Technical Support
 -   Operating Systems
     -   MacOS
     -   ChromeOS

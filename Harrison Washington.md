@@ -106,7 +106,9 @@ August 2020 to August 2021
     - DNS Server
     - File Server
     - Domain Controller
-    - User Management    
+    - User Management  
+    - Computer Hardware Troubleshooting    
+    - Technical Support
 -   Linux System Administration
     - User Management          
     - Network Support    

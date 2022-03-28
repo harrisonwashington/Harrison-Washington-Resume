@@ -108,12 +108,12 @@ August 2020 to August 2021
 	- Domain Controller
         - User Management    
 -   Linux System Administration
-        -   User Management          
-        -   Network Support    
-        -   Network Security    
-        -   Network Firewalls
-        -   Computer Hardware Troubleshooting    
-        -   Technical Support
+        - User Management          
+        - Network Support    
+        - Network Security    
+        - Network Firewalls
+        - Computer Hardware Troubleshooting    
+        - Technical Support
 -   Operating Systems
     -   MacOS
     -   ChromeOS

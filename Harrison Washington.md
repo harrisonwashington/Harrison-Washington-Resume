@@ -19,12 +19,40 @@ August 2021 to Present
 **SaaS Management**
 - Google Workspace/GCP
      - User account management 
-     - Group creation and management 
+       - Account creation
+       - Account auditing 
+       - Password reset/change
+       - Account deactivation, export, and archive to google vault
+     - Group management 
+       - Group Creation 
+       - Group member access 
 - Okta
+     - User account management 
+       - Account creation
+       - Password reset/change
+       - Account deactivation
+       - Assign apps to users
+     - Group management
+       - Assign users to okta groups
+       - Edit and make changes to okta push groups
 - Jamf Pro
+     - User account management via jamf pro cloud
+     - Run jamf Policies on new machines
 - Slack
+  - User/Group creation
+  - User/Group auditing
+  - User/Group deactivation, archiving, and deletion  
+  - channel creation 
 - Azure AD
+     - User account management 
+       - Account creation
+       - Account auditing 
+       - Account deactivation, export, and deletion
 - AWS IAM
+     - User account management 
+       - Account creation
+       - Secret key creation for new user account 
+       - Account auditing 
 - Looker
 - Slab
 - PostBeyond
@@ -103,7 +131,7 @@ August 2020 to August 2021
 -   Web Development 
     - HTML
     - CSS
-    - Git, Github
+    - Git, GitHub
 -   Virtualization
     - VMWare
 -   System Administration  

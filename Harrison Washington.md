@@ -24,7 +24,7 @@ August 2021 to Present
        - Password reset/change
        - Account deactivation, export, and archive to google vault
      - Group management 
-       - Group Creation 
+       - Group creation 
        - Group member access 
 - Okta
      - User account management 
@@ -39,9 +39,10 @@ August 2021 to Present
      - User account management via jamf pro cloud
      - Run jamf policies on new machines
 - Slack
-  - User/Slack channel  creation
-  - User/Slack channel  auditing
-  - User/Slack channel  deactivation, archiving, and deletion  
+  - User/Group creation
+  - User/Group auditing
+  - User/Group deactivation, archiving, and deletion  
+  - channel creation 
 - Azure AD
      - User account management 
        - Account creation

@@ -37,7 +37,7 @@ August 2021 to Present
        - Edit and make changes to okta push groups
 - Jamf Pro
      - User account management via jamf pro cloud
-     - Run jamf Policies on new machines
+     - Run jamf policies on new machines
 - Slack
   - User/Group creation
   - User/Group auditing

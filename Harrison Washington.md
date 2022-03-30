@@ -18,6 +18,8 @@ August 2021 to Present
 
 **SaaS Management**
 - Google Workspace/GCP
+     - User account management 
+     - Group creation and management 
 - Okta
 - Jamf Pro
 - Slack

@@ -98,6 +98,10 @@ August 2020 to August 2021
 - Remote support via ConnectWise Control Support/GoToAssist
 
 ## Skills
+-   Web Development 
+    - HTML
+    - CSS
+    - Git, Github
 -   Virtualization
     - VMWare
 -   System Administration  
@@ -110,7 +114,8 @@ August 2020 to August 2021
     - Computer Hardware Troubleshooting    
     - Technical Support
 -   Linux System Administration
-    - User Management          
+    - User Management
+    - SSH remote server Administration           
     - Network Support    
     - Network Security    
     - Network Firewalls

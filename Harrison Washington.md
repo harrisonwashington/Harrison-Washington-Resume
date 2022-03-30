@@ -39,10 +39,9 @@ August 2021 to Present
      - User account management via jamf pro cloud
      - Run jamf policies on new machines
 - Slack
-  - User/Group creation
-  - User/Group auditing
-  - User/Group deactivation, archiving, and deletion  
-  - channel creation 
+  - User/Slack channel  creation
+  - User/Slack channel  auditing
+  - User/Slack channel  deactivation, archiving, and deletion  
 - Azure AD
      - User account management 
        - Account creation

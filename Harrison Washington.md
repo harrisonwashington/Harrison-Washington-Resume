@@ -11,6 +11,37 @@
 **GitHub**: [harrisonwashington](https://github.com/harrisonwashington)
 
 
+
+## Senior Information Technology Administrator
+
+**BayWa r.e. Americas**
+May 2022 to Present 
+
+- Participate in the development and implementation of strategic roadmaps to ensure that IT Infrastructure provides a high degree of security, reliability, performance, and availability.
+
+- Coordinate with regional and corporate network organization, storage and server administrators, systems administrators and other IT Infrastructure support staff to ensure availability of IT Infrastructure equipment and services.
+
+- General IT Infrastructure Systems Administration work focusing on installation, configuration, and maintenance of IT systems software and hardware for servers and employee computing devices.
+
+- Meeting end user needs by ensuring the uptime, performance, resource availability, and security of the computers managed within established budgets and operational guidelines.
+
+- Acquire, install, and upgrade computer components and software.
+
+- Automate routine tasks using scripting and writing basic computer programs to address more complex systems software configuration and enhancement.
+
+- Ensure local implementation of and monitor the adherence to IT security strategy, IT architecture guidelines and standards as defined by corporate IT.
+
+- Promote common technology solutions and initiative alignment across the regional business and global IT organization.
+
+
+**Applacation Support**
+- O365
+- Sharepoint 
+- PowerApps
+- MS Teams
+- Azure AD
+
+
 ## Information Technology Support Engineer
 
 **Fivetran**

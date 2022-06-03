@@ -41,6 +41,22 @@ May 2022 to Present
 - MS Teams
 - Azure AD
 
+**Customer Service**
+- Remote/on Perm Trouble-shooting on computer hardware, Windows operating system, Windows operating system, network connections, etc. 
+- Application training, documentation, and overviews 
+- New Employee Onboarding/Offboarding
+- Reply in a timely manner to open support ticks 
+
+**Network Management**
+-  Ubiquiti network management
+
+**Asset Management**
+- Maintain a “ready to go” inventory of imaged Windows laptop's, Apple iPad's, Apple, and all components used for new employees or system replacements 
+- Printers
+- Computer Peripherals
+- TV’s / Computer monitors
+- Software license
+
 
 ## Information Technology Support Engineer
 
